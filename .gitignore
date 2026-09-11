@@ -1,0 +1,39 @@
+# Build results
+bin/
+obj /
+out/
+artifacts /
+
+# Test results
+TestResults /
+*.trx
+*.coverage
+*.coveragexml
+
+# User-specific / IDE files
+.vs /
+.vscode /
+.idea /
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+
+# Publish output
+*.publish.xml
+PublishProfiles /
+
+# NuGet
+*.nupkg
+* */ packages/*
+!**/packages / build /
+.nuget /
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
+
+# Local secrets and environment overrides (never commit real ones)
+appsettings.*.local.json
+.env
