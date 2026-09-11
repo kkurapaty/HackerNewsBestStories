@@ -1,6 +1,6 @@
 # Build results
 bin/
-obj /
+obj/
 out/
 artifacts /
 
