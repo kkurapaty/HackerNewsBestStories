@@ -28,7 +28,7 @@ Try it locally with, for example, `GET /api/beststories/10` or `GET /api/beststo
 You'll need the .NET 8 SDK installed.
 
 ```bash
-git clone <this repo>
+git clone https://github.com/kkurapaty/HackerNewsBestStories.git
 cd HackerNewsBestStories
 dotnet test
 dotnet run --project src/HackerNewsBestStories.Api
