@@ -3,9 +3,9 @@ bin/
 obj/
 out/
 artifacts/
-**/bin/
-**/obj/
-**/out/
+**/bin/*
+**/obj/*
+**/out/*
 
 # Test results
 TestResults/
