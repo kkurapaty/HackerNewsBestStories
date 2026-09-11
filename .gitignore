@@ -2,18 +2,21 @@
 bin/
 obj/
 out/
-artifacts /
+artifacts/
+**/bin/
+**/obj/
+**/out/
 
 # Test results
-TestResults /
+TestResults/
 *.trx
 *.coverage
 *.coveragexml
 
 # User-specific / IDE files
-.vs /
-.vscode /
-.idea /
+.vs/
+.vscode/
+.idea/
 *.user
 *.suo
 *.userosscache
@@ -22,13 +25,13 @@ TestResults /
 
 # Publish output
 *.publish.xml
-PublishProfiles /
+PublishProfiles/
 
 # NuGet
 *.nupkg
-* */ packages/*
-!**/packages / build /
-.nuget /
+**/packages/*
+!**/packages/build/
+.nuget/
 
 # macOS / Windows junk
 .DS_Store

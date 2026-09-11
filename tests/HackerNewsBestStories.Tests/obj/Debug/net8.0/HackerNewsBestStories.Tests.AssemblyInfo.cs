@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HackerNewsBestStories.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0881ec8b01e585f7ffebe35099036a61d43f242")]
 [assembly: System.Reflection.AssemblyProductAttribute("HackerNewsBestStories.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HackerNewsBestStories.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
